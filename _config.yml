@@ -21,7 +21,7 @@
 title: Diana's blog
 email: ing.diane.bb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  En este blog espera poder brindarte herramientas y trucos para que puedas hackear tus materias y entender esos detalles que no viste en clase.
+  Este blog espera poder brindarte herramientas y trucos para que puedas hackear tus materias y entender esos detalles que no viste en clase.
 baseurl: "/20percent" # the subpath of your site, e.g. /blog
 url: "https://ingdiane16.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
